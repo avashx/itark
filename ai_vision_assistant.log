@@ -1,0 +1,29 @@
+2025-08-05 20:00:12,607 - INFO - AI model initialized successfully
+2025-08-05 20:00:14,931 - INFO - Audio systems initialized successfully
+2025-08-05 20:00:16,649 - INFO - Camera initialized successfully
+2025-08-05 20:03:00,693 - INFO - AI model initialized successfully
+2025-08-05 20:03:02,970 - INFO - Audio systems initialized successfully
+2025-08-05 20:03:04,478 - INFO - Camera initialized successfully
+2025-08-05 20:03:04,862 - ERROR - Application error: 'VisionAssistant' object has no attribute 'description_interval'
+2025-08-05 20:03:54,802 - INFO - AI model initialized successfully
+2025-08-05 20:03:56,947 - INFO - Audio systems initialized successfully
+2025-08-05 20:03:58,404 - INFO - Camera initialized successfully
+2025-08-05 20:03:58,583 - ERROR - Application error: 'VisionAssistant' object has no attribute 'description_interval'
+2025-08-05 20:06:54,673 - INFO - Application interrupted by user
+2025-08-05 20:07:52,514 - INFO - AI model initialized successfully
+2025-08-05 20:07:54,874 - INFO - Audio systems initialized successfully
+2025-08-05 20:07:56,466 - INFO - Camera initialized successfully
+2025-08-05 20:07:56,953 - ERROR - Application error: 'VisionAssistant' object has no attribute 'description_interval'
+2025-08-05 20:08:55,191 - INFO - AI model initialized successfully
+2025-08-05 20:08:57,328 - INFO - Audio systems initialized successfully
+2025-08-05 20:08:58,791 - INFO - Camera initialized successfully
+2025-08-05 20:08:59,060 - ERROR - Application error: 'VisionAssistant' object has no attribute 'description_interval'
+2025-08-05 20:09:48,203 - INFO - AI model initialized successfully
+2025-08-05 20:09:50,297 - INFO - Audio systems initialized successfully
+2025-08-05 20:09:51,746 - INFO - Camera initialized successfully
+2025-08-05 20:24:31,602 - INFO - AI model initialized successfully
+2025-08-05 20:24:35,599 - INFO - Audio systems initialized successfully
+2025-08-05 20:24:38,277 - INFO - Camera initialized successfully
+2025-08-05 20:29:09,115 - INFO - AI model initialized successfully
+2025-08-05 20:29:12,139 - INFO - Audio systems initialized successfully
+2025-08-05 20:29:13,506 - INFO - Camera initialized successfully

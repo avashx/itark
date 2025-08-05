@@ -1,0 +1,10 @@
+opencv-python
+google-generativeai
+gtts
+SpeechRecognition
+pyttsx3
+pygame
+Pillow
+pyaudio
+numpy
+requests
